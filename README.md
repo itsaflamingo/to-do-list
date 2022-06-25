@@ -2,7 +2,7 @@
 
 Restaurant Page assignment: [https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page](https://www.theodinproject.com/lessons/node-path-javascript-todo-list)
 
-Live link to finished assignment: 
+Live link to finished assignment: https://itsaflamingo.github.io/to-do-list/
 
 Skills used:
 
