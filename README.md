@@ -1,5 +1,5 @@
 # to-do-list
-Restaurant Page assignment: https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page
+To do list assignment: https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page
 
 Live link to finished assignment: https://itsaflamingo.github.io/to-do-list/
 
